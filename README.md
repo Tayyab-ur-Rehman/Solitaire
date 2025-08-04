@@ -2,9 +2,8 @@
 
 A classic **Klondike Solitaire** game written in **Modern C++**, using **SFML** for window handling, graphics, input, and audio.  
 Designed as a data structures & algorithms project at ITU, this version replaces the terminal-only implementation and brings graphical polish to your card-based logic.
+<img width="1028" height="602" alt="image" src="https://github.com/user-attachments/assets/cb1cce6b-5834-4c45-bb02-4cc110e496eb" />
 
-**Demo:** *(screenshot or animated GIF of gameplay)*  
-*(Place actual FPS/anim frame and card screenshot here)*
 
 ---
 
