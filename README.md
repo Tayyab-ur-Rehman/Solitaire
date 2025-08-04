@@ -9,9 +9,9 @@ Designed as a data structures & algorithms project at ITU, this version replaces
 
 ## 🧭 Overview
 
-- Builds and runs across **Windows**, **Linux**, and **macOS** using **SFML 2.5.x or 3.x** :contentReference[oaicite:1]{index=1}.
+- Builds and runs across **Windows**, **Linux**, and **macOS** using **SFML 2.5.x or 3.x** .
 - Fully works with decks, foundations, tableau, and Ace piles using **stack** and **queue** data structures.
-- Randomized deals with optional difficulty levels — *Easy*, *Medium*, *Hard* — adapted from your game's internal rule-set (as seen in your past LinkedIn/coding post about Klondike and SFML) :contentReference[oaicite:2]{index=2}.
+- Randomized deals with optional difficulty levels — *Easy*, *Medium*, *Hard* — adapted from your game's internal rule-set (as seen in your past LinkedIn/coding post about Klondike and SFML) 
 
 ---
 
